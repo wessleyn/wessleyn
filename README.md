@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Prisma, Trigger.dev, Nestjs**
 
-- 👨‍💻 All of my projects are available at [https://wessleyn.me](https://wessleyn.me)
+- 👨‍💻 All of my projects are available at [https://wessleyn.me](https://wessleyn.me/projects)
 
 - 📝 I regularly write articles on [https://wessleyn.me/blog](https://wessleyn.me/blog)
 
